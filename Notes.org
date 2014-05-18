@@ -1,3 +1,4 @@
 - Made functional_test.py
 - made superlist with django-admin.py startproject superlist
 - move functional_test.py to superlist
+-
